@@ -14,6 +14,11 @@ font-family: Pixel, Arial, Helvetica, sans-serif;
 font-size: 1rem;
 outline: none;
 cursor: pointer;
+border-bottom: 4px solid #1c1c1c;
+border-right: 2px solid #1c1c1c;
 
-&:hover{ background-color:red;}
+&:hover{ background-color:#03d3fc;
+border-bottom: 4px solid #32bdd9;
+border-right: 2px solid #32bdd9;
+}
 `
